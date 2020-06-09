@@ -52,11 +52,6 @@ IMAGENET_WEIGHTS = {
         'url': 'https://github.com/qubvel/efficientnet/releases/download/v0.0.1/efficientnet-b3_imagenet_1000_notop.h5',
         'md5': '1f7d9a8c2469d2e3d3b97680d45df1e1',
     },
-        'efficientnet-b4-notop': {
-        'name': 'efficientnet-b4_imagenet_1000_notop.h5',
-        'url': 'https://github.com/qubvel/efficientnet/releases/download/v0.0.1/efficientnet-b4_imagenet_1000_notop.h5',
-        'md5': 'e7c3b780f050f8f49c800f23703f285c',
-    },
 
 }
 
